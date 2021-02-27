@@ -13,3 +13,5 @@ Each member of the DAO receives shares for each contribution in the form of cryp
 The platform will be decentralized. Hosting takes place via IPFS and ENS on Ethereum. Data is also stored decentrally on IPFS. All costs will be covered via crowd funding through the sale of tokens.
 
 ## Roadmap
+![alt text](https://github.com/DecryptBusiness/visionary-recruiting//blob/main/img/Roadmap.jpeg?raw=true)
+ 
