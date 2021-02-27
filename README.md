@@ -1,5 +1,5 @@
 # Visionary Recruiting
-![alt text](https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
+![alt text](https://images.pexels.com/photos/3183153/pexels-photo-3183153.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
 ## Business Need
 Demand for tech talent is on the rise. Headhunters are increasingly using data-driven tools to find suitable candidates. These mostly consist of a search engine and cost several thousand dollars per year and license. The industry is looking for an affordable alternative.
 
